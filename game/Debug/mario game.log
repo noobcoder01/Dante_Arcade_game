@@ -1,0 +1,48 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(97,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(121,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(129,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(130,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(251,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(252,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(301,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(309,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(358,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(365,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(447,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(509,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(532,115): warning C4305: '=': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(533,115): warning C4305: '=': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(550,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(555,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(701,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\mario game\Source.cpp(766,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  mario game.vcxproj -> C:\Program Files (x86)\Microsoft Visual Studio\visual studio stuff\projects\mario game\Debug\mario game.exe
